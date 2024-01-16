@@ -1,2 +1,2 @@
 # scrap-Soup
-Web-scrapping with Beautiful Soup
+Web-scrapping with BeautifulSoup
